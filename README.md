@@ -1,1 +1,6 @@
-We built an AI-powered chatbot for Iron Lady that helps users easily understand programs, services, and the learning process through friendly conversations, improving customer support and engagement.
+This project is an AI-based chatbot created for the Iron Lady website.
+It helps users understand Iron Lady’s programs, services, and process through interactive conversations, improving customer experience and engagement.
+Technologies Used
+1.HTML
+2.CSS
+3.JavaScript
